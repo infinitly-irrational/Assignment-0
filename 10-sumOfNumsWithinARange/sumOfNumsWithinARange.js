@@ -1,4 +1,4 @@
-function cd(nums, start, end) {
+function sumOfNumsWithinARange(nums, start, end) {
   let x=0;
 
   for (let i=0; i < nums.length; i++){
