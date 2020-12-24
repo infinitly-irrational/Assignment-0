@@ -1,3 +1,4 @@
+
 function countOfAllIndexMatchingNumbers(nums) {
   let x=0;
 
